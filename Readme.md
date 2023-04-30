@@ -16,7 +16,7 @@ Nautilus es un shell de Unix escrito en C que permite a los usuarios interactuar
 ## Colaboradores
 
 - Hector Miguel Rodriguez Sosa - Grupo C311
-- Sebastian Suarez Gome - Grupo C311
+- Sebastian Suarez Gomez - Grupo C311
 
 ## Features
 - Redireccion de entrada desde un archivo en vez del teclado (<)
