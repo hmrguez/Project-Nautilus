@@ -1,0 +1,10 @@
+help 
+help history 
+cat < a.txt | sort > file 
+cat file 
+exit 
+ls 
+cat a.txt 
+> fil2 
+cat < a.txt | grep h | sort > file 
+cat file 

@@ -1,0 +1,11 @@
+biology
+math
+science
+physics
+civics
+economics
+calculus
+history
+logic
+pe
+astronomy
